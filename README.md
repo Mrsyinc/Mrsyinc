@@ -1,4 +1,24 @@
 1. https://www.mql5.com/en/market/product/122614
+2. //+------------------------------------------------------------------+
+//|                                                  HelloMQL5.mq5   |
+//|                        Copyright 2024, MetaQuotes Software Corp. |
+//|                                        https://www.mql5.com      |
+//+------------------------------------------------------------------+
+#property copyright "2024, MetaQuotes Software Corp."
+#property link      "https://www.mql5.com"
+#property version   "1.00"
+#property script_show_inputs
+
+//+------------------------------------------------------------------+
+//| Script program start function                                    |
+//+------------------------------------------------------------------+
+void OnStart()
+  {
+   // Print a message to the terminal
+   Print("Hello, MQL5!");
+  }
+//+------------------------------------------------------------------+
+
 
 - 👋 Hi, I’m @Mrsyinc
 - 👀 I’m interested in ...
